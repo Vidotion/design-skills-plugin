@@ -1,26 +1,8 @@
 {
   "name": "design-skills",
-  "description": "Web design toolkit: scroll animations, 3D effects, 2D canvas, Framer Motion, GSAP, Three.js, React Three Fiber, Blender export, and component libraries (Magic UI, React Bits, 21st.dev).",
+  "description": "Web design toolkit: scroll animations (Locomotive, GSAP, frame-sequence), 3D (Three.js, R3F, Zdog/Vanta), 2D (PixiJS), page transitions (Barba.js), Framer Motion, Blender export, and component libraries (Magic UI, React Bits, 21st.dev).",
   "author": {
-    "name": "arne_kill",
-    "url": "https://github.com/arne-kill"
-  },
-  "skills": [
-    "animation",
-    "animation4",
-    "scroll-animation-2",
-    "scroll-animation-3",
-    "scroll-frame-sequence",
-    "2d-effekt",
-    "3d-effekt-3",
-    "3d-effekt-4",
-    "3d-effekt-7",
-    "3d-effekt-8",
-    "webdesign-2",
-    "webdesign-3",
-    "webdesign-4",
-    "webdesign-5",
-    "blender",
-    "21st-dev"
-  ]
+    "name": "Vidotion",
+    "url": "https://github.com/Vidotion"
+  }
 }

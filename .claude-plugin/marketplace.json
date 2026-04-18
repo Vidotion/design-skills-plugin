@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "design-skills",
+  "description": "Web design toolkit: scroll animations, 3D effects, Framer Motion, GSAP, Three.js, React Three Fiber, Blender export, and component libraries.",
+  "owner": {
+    "name": "Vidotion",
+    "url": "https://github.com/Vidotion"
+  },
+  "plugins": [
+    {
+      "name": "design-skills",
+      "description": "16 web design skills — scroll, 3D, 2D canvas, animations, webdesign guidelines, Blender export, 21st.dev components.",
+      "source": "./",
+      "category": "design"
+    }
+  ]
+}
